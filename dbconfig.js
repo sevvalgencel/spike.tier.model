@@ -1,6 +1,6 @@
 module.exports = {
     user: "node",
-    password: "dbhunter",
+    password: "******",
     connectString: "localhost/orclpdb1",
   };
   
