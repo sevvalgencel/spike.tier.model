@@ -1,0 +1,24 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+.guvenli {
+  background-color: green;
+}
+.riskli {
+  background-color: yellow;
+}
+.kapasite-asimi {
+  background-color: orange;
+}
+.bos {
+  background-color: white;
+}
